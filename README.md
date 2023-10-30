@@ -167,9 +167,9 @@ print(classification_report(Y_test,predictions))
 ## OUTPUT 
 ### First five rows:
 ![image](https://github.com/Shobika187/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94508142/740ef3a7-d829-4ba2-bf64-3ff77ef22d7a)
-### Unique values of Y
+### First five rows of Y:
 ![image](https://github.com/Shobika187/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94508142/abfd956a-0398-42e2-9274-6e38960a36b6)
-### Transforming Categorical to numerical values:
+### Unique values of Y:
 ![image](https://github.com/Shobika187/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94508142/c4ac96af-dff4-471d-a2fb-a0a0215bc2cf)
 ### Prediction:
 ![image](https://github.com/Shobika187/Experiment-4---Implementation-of-MLP-with-Backpropagation/assets/94508142/d9fefa42-9804-492b-98bc-de2f7a4e6d29)
